@@ -1,0 +1,9 @@
+{
+    "comparator_output": 4,
+    "description": "Aaron Cherof - Bromeliad",
+    "length_in_seconds": 312.0,
+    "sound_event": {
+        "sound_id": "artifacts:music.minecraft.general.bromeliad",
+        "range": 64
+    }
+}

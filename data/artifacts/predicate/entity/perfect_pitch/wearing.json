@@ -1,0 +1,65 @@
+{
+    "condition": "any_of",
+    "terms": [
+        {
+            "condition": "entity_properties",
+            "entity": "this",
+            "predicate": {
+                "equipment": {
+                    "head": {
+                        "predicates": {
+                        "minecraft:enchantments": [
+                            {
+                                "enchantments": "artifacts:perfect_pitch",
+                                "levels": {
+                                    "min": 1
+                                }
+                            }
+                        ]
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "condition": "entity_properties",
+            "entity": "attacking_player",
+            "predicate": {
+                "equipment": {
+                    "head": {
+                        "predicates": {
+                        "minecraft:enchantments": [
+                            {
+                                "enchantments": "artifacts:perfect_pitch",
+                                "levels": {
+                                    "min": 1
+                                }
+                            }
+                        ]
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "condition": "entity_properties",
+            "entity": "attacker",
+            "predicate": {
+                "equipment": {
+                    "head": {
+                        "predicates": {
+                        "minecraft:enchantments": [
+                            {
+                                "enchantments": "artifacts:perfect_pitch",
+                                "levels": {
+                                    "min": 1
+                                }
+                            }
+                        ]
+                        }
+                    }
+                }
+            }
+        }
+    ]
+}

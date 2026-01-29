@@ -1,0 +1,94 @@
+{
+    "pools": [
+        {
+            "rolls": 1.0,
+            "entries": [
+                {
+                    "type": "minecraft:loot_table",
+                    "value": "artifacts:records/minecraft/menu/beginning_2"
+                }
+            ]
+        },
+        {
+            "rolls": 1.0,
+            "entries": [
+                {
+                    "type": "minecraft:loot_table",
+                    "value": "artifacts:records/minecraft/menu/featherfall"
+                }
+            ]
+        },
+        {
+            "rolls": 1.0,
+            "entries": [
+                {
+                    "type": "minecraft:loot_table",
+                    "value": "artifacts:records/minecraft/menu/floating_trees"
+                }
+            ]
+        },
+        {
+            "rolls": 1.0,
+            "entries": [
+                {
+                    "type": "minecraft:loot_table",
+                    "value": "artifacts:records/minecraft/menu/komorebi"
+                }
+            ]
+        },
+        {
+            "rolls": 1.0,
+            "entries": [
+                {
+                    "type": "minecraft:loot_table",
+                    "value": "artifacts:records/minecraft/menu/moog_city_2"
+                }
+            ]
+        },
+        {
+            "rolls": 1.0,
+            "entries": [
+                {
+                    "type": "minecraft:loot_table",
+                    "value": "artifacts:records/minecraft/menu/mutation"
+                }
+            ]
+        },
+        {
+            "rolls": 1.0,
+            "entries": [
+                {
+                    "type": "minecraft:loot_table",
+                    "value": "artifacts:records/minecraft/menu/pokopoko"
+                }
+            ]
+        },
+        {
+            "rolls": 1.0,
+            "entries": [
+                {
+                    "type": "minecraft:loot_table",
+                    "value": "artifacts:records/minecraft/menu/puzzlebox"
+                }
+            ]
+        },
+        {
+            "rolls": 1.0,
+            "entries": [
+                {
+                    "type": "minecraft:loot_table",
+                    "value": "artifacts:records/minecraft/menu/watcher"
+                }
+            ]
+        },
+        {
+            "rolls": 1.0,
+            "entries": [
+                {
+                    "type": "minecraft:loot_table",
+                    "value": "artifacts:records/minecraft/menu/yakusoku"
+                }
+            ]
+        }
+    ]
+}

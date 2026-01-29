@@ -1,0 +1,9 @@
+{
+    "comparator_output": 1,
+    "description": "C418 - Danny",
+    "length_in_seconds": 255.0,
+    "sound_event": {
+        "sound_id": "artifacts:music.minecraft.alpha.danny",
+        "range": 64
+    }
+}

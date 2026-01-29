@@ -1,0 +1,57 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/pokeballs/dive_ball"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/pokeballs/great_ball"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/pokeballs/luxury_ball"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/pokeballs/master_ball"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/pokeballs/nest_ball"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/pokeballs/net_ball"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/pokeballs/poke_ball"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/pokeballs/premier_ball"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/pokeballs/repeat_ball"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/pokeballs/safari_ball"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/pokeballs/timer_ball"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/pokeballs/ultra_ball"
+        }
+      ]
+    }
+  ]
+}

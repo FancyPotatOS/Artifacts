@@ -1,0 +1,9 @@
+{
+    "comparator_output": 1,
+    "description": "C418 - Subwoofer Lullaby",
+    "length_in_seconds": 209.0,
+    "sound_event": {
+        "sound_id": "artifacts:music.minecraft.alpha.subwoofer_lullaby",
+        "range": 64
+    }
+}

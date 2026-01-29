@@ -1,0 +1,9 @@
+{
+    "comparator_output": 9,
+    "description": "H. Inagaki + A. Isemura - Rainbow Route",
+    "length_in_seconds": 76.0,
+    "sound_event": {
+        "sound_id": "artifacts:music.kirby_amazing_mirror.rainbow_route",
+        "range": 64
+    }
+}

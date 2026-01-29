@@ -1,0 +1,77 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/warioware_inc/boss_wario"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/warioware_inc/chicken_race"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/warioware_inc/chiritorie"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/warioware_inc/dong_dong"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/warioware_inc/dr_crygor"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/warioware_inc/dribble"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/warioware_inc/easy_elevator"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/warioware_inc/hard_elevator"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/warioware_inc/hurdle"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/warioware_inc/jimmy"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/warioware_inc/kat"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/warioware_inc/mona"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/warioware_inc/nine_volt"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/warioware_inc/orbulon"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/warioware_inc/thrilling_elevator"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/warioware_inc/total_boss_elevator"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/warioware_inc/wario"
+        }
+      ]
+    }
+  ]
+}

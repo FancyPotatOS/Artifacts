@@ -1,0 +1,37 @@
+{
+    "pools": [
+        {
+            "rolls": 1.0,
+            "entries": [
+                {
+                    "type": "minecraft:loot_table",
+                    "value": "artifacts:records/minecraft/nether/ballad_of_the_cats"
+                },
+                {
+                    "type": "minecraft:loot_table",
+                    "value": "artifacts:records/minecraft/nether/chrysopoeia"
+                },
+                {
+                    "type": "minecraft:loot_table",
+                    "value": "artifacts:records/minecraft/nether/concrete_halls"
+                },
+                {
+                    "type": "minecraft:loot_table",
+                    "value": "artifacts:records/minecraft/nether/so_below"
+                },
+                {
+                    "type": "minecraft:loot_table",
+                    "value": "artifacts:records/minecraft/nether/rubedo"
+                },
+                {
+                    "type": "minecraft:loot_table",
+                    "value": "artifacts:records/minecraft/nether/dead_voxel"
+                },
+                {
+                    "type": "minecraft:loot_table",
+                    "value": "artifacts:records/minecraft/nether/warmth"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "pools": [
+        {
+            "rolls": 1.0,
+            "entries": [
+                {
+                    "type": "minecraft:loot_table",
+                    "value": "artifacts:records/minecraft/alpha/clark"
+                },
+                {
+                    "type": "minecraft:loot_table",
+                    "value": "artifacts:records/minecraft/alpha/danny"
+                },
+                {
+                    "type": "minecraft:loot_table",
+                    "value": "artifacts:records/minecraft/alpha/dry_hands"
+                },
+                {
+                    "type": "minecraft:loot_table",
+                    "value": "artifacts:records/minecraft/alpha/haggstrom"
+                },
+                {
+                    "type": "minecraft:loot_table",
+                    "value": "artifacts:records/minecraft/alpha/key"
+                },
+                {
+                    "type": "minecraft:loot_table",
+                    "value": "artifacts:records/minecraft/alpha/living_mice"
+                },
+                {
+                    "type": "minecraft:loot_table",
+                    "value": "artifacts:records/minecraft/alpha/mice_on_venus"
+                },
+                {
+                    "type": "minecraft:loot_table",
+                    "value": "artifacts:records/minecraft/alpha/minecraft"
+                },
+                {
+                    "type": "minecraft:loot_table",
+                    "value": "artifacts:records/minecraft/alpha/oxygene"
+                },
+                {
+                    "type": "minecraft:loot_table",
+                    "value": "artifacts:records/minecraft/alpha/subwoofer_lullaby"
+                },
+                {
+                    "type": "minecraft:loot_table",
+                    "value": "artifacts:records/minecraft/alpha/sweden"
+                },
+                {
+                    "type": "minecraft:loot_table",
+                    "value": "artifacts:records/minecraft/alpha/wet_hands"
+                }
+            ]
+        }
+    ]
+}

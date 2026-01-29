@@ -1,0 +1,9 @@
+{
+    "comparator_output": 2,
+    "description": "C418 - Biome Fest",
+    "length_in_seconds": 382.0,
+    "sound_event": {
+        "sound_id": "artifacts:music.minecraft.creative.biome_fest",
+        "range": 64
+    }
+}

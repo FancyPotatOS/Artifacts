@@ -1,0 +1,9 @@
+{
+    "comparator_output": 9,
+    "description": "Junichi Masuda - Lavender Town",
+    "length_in_seconds": 115.0,
+    "sound_event": {
+        "sound_id": "artifacts:music.pokemon.frlg_lavender_town",
+        "range": 64
+    }
+}

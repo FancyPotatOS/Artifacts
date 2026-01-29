@@ -1,0 +1,9 @@
+{
+    "comparator_output": 6,
+    "description": "C418 - Concrete Halls",
+    "length_in_seconds": 259.0,
+    "sound_event": {
+        "sound_id": "artifacts:music.minecraft.nether.concrete_halls",
+        "range": 64
+    }
+}

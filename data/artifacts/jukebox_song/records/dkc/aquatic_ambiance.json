@@ -1,0 +1,9 @@
+{
+    "comparator_output": 9,
+    "description": "David Wise - Aquatic Ambiance",
+    "length_in_seconds": 204.0,
+    "sound_event": {
+        "sound_id": "artifacts:music.dkc.aquatic_ambiance",
+        "range": 64
+    }
+}

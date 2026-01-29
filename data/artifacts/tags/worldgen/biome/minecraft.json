@@ -1,0 +1,31 @@
+{
+    "values": [
+        "minecraft:badlands",
+        "minecraft:basalt_deltas",
+        "minecraft:birch_forest",
+        "minecraft:dark_forest",
+        "minecraft:desert",
+        "minecraft:eroded_badlands",
+        "minecraft:forest",
+        "minecraft:frozen_peaks",
+        "minecraft:frozen_river",
+        "minecraft:ice_spikes",
+        "minecraft:jagged_peaks",
+        "minecraft:mangrove_swamp",
+        "minecraft:mushroom_fields",
+        "minecraft:old_growth_birch_forest",
+        "minecraft:river",
+        "minecraft:snowy_beach",
+        "minecraft:snowy_plains",
+        "minecraft:snowy_slopes",
+        "minecraft:snowy_taiga",
+        "minecraft:soul_sand_valley",
+        "minecraft:stony_peaks",
+        "minecraft:stony_shore",
+        "minecraft:swamp",
+        "minecraft:windswept_forest",
+        "minecraft:windswept_gravelly_hills",
+        "minecraft:windswept_hills",
+        "minecraft:wooded_badlands"
+    ]
+}

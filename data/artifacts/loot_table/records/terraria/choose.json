@@ -1,0 +1,29 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:records/terraria/boss_2"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:records/terraria/town_day"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:records/terraria/ocean"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:records/terraria/mushrooms"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:records/terraria/dungeon"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+    "pools": [
+        {
+            "rolls": 1.0,
+            "entries": [
+                {
+                    "type": "minecraft:loot_table",
+                    "value": "artifacts:records/minecraft/water/axolotl"
+                },
+                {
+                    "type": "minecraft:loot_table",
+                    "value": "artifacts:records/minecraft/water/dragon_fish"
+                },
+                {
+                    "type": "minecraft:loot_table",
+                    "value": "artifacts:records/minecraft/water/shuniji"
+                }
+            ]
+        }
+    ]
+}

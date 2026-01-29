@@ -1,0 +1,9 @@
+{
+    "comparator_output": 2,
+    "description": "Kumi Tanioka - Comforting Memories",
+    "length_in_seconds": 275.0,
+    "sound_event": {
+        "sound_id": "artifacts:music.minecraft.creative.comforting_memories",
+        "range": 64
+    }
+}

@@ -1,0 +1,60 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:poisonous_potato",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_model_data": {
+                  "strings": [
+                    "artifacts:collectibles/super_mario_world",
+                    "artifacts:turquoise_shell"
+                  ]
+                },
+                "rarity": "rare",
+                "minecraft:item_name": {
+                  "text": "Turquoise Shell",
+                  "color": "#D7EAF1",
+                  "italic": false
+                },
+                "minecraft:max_stack_size": 15,
+                "lore": [
+                  [
+                    {"text":"S","italic": false,"color":"#FF3939"},
+                    {"text":"u","italic": false,"color":"#00DEFF"},
+                    {"text":"p","italic": false,"color":"#FFCE29"},
+                    {"text":"e","italic": false,"color":"#00DEFF"},
+                    {"text":"r ","italic": false,"color":"#00CE00"},
+
+                    {"text":"M","italic": false,"color":"#00CE00"},
+                    {"text":"a","italic": false,"color":"#00DEFF"},
+                    {"text":"r","italic": false,"color":"#FFCE29"},
+                    {"text":"i","italic": false,"color":"#FF3939"},
+                    {"text":"o ","italic": false,"color":"#00CE00"},
+
+                    {"text":"W","italic": false,"color":"#FFCE29"},
+                    {"text":"o","italic": false,"color":"#00DEFF"},
+                    {"text":"r","italic": false,"color":"#00CE00"},
+                    {"text":"l","italic": false,"color":"#FF3939"},
+                    {"text":"d","italic": false,"color":"#00CE00"}
+                  ]
+                ],
+                "!minecraft:consumable": {},
+                "!minecraft:food": {}
+              }
+            },
+            {
+              "function": "minecraft:reference",
+              "name": "artifacts:unstackable_stackable"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

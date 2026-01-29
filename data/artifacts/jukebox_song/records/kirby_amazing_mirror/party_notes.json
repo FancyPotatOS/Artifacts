@@ -1,0 +1,9 @@
+{
+    "comparator_output": 9,
+    "description": "H. Inagaki + A. Isemura - Dark Mind's Second Form",
+    "length_in_seconds": 107.0,
+    "sound_event": {
+        "sound_id": "artifacts:music.kirby_amazing_mirror.dark_minds_second_form",
+        "range": 64
+    }
+}

@@ -1,0 +1,13 @@
+{
+  "function": "minecraft:set_custom_model_data",
+  "floats": {
+    "mode": "append",
+    "values": [
+      {
+        "type": "minecraft:uniform",
+        "min": -1000,
+        "max": 1000
+      }
+    ]
+  }
+}

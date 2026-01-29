@@ -1,0 +1,33 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:music_disc_11",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_model_data": {
+                  "strings": [
+                    "artifacts:inscryption",
+                    "artifacts:blood"
+                  ]
+                },
+                "rarity": "rare",
+                "minecraft:jukebox_playable": "artifacts:records/inscryption/grimoras_crypt",
+                "minecraft:max_stack_size": 3
+              }
+            },
+            {
+              "function": "minecraft:reference",
+              "name": "artifacts:unstackable_stackable"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

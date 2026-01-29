@@ -1,0 +1,85 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/kirby_amazing_mirror/trophies/bang_bang"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/kirby_amazing_mirror/trophies/bonkers"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/kirby_amazing_mirror/trophies/boxin"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/kirby_amazing_mirror/trophies/cupie"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/kirby_amazing_mirror/trophies/flamer"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/kirby_amazing_mirror/trophies/foley"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/kirby_amazing_mirror/trophies/hot_head"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/kirby_amazing_mirror/trophies/laser_ball"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/kirby_amazing_mirror/trophies/parasol"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/kirby_amazing_mirror/trophies/pengy"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/kirby_amazing_mirror/trophies/phan_phan"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/kirby_amazing_mirror/trophies/rocky"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/kirby_amazing_mirror/trophies/sir_kibble"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/kirby_amazing_mirror/trophies/smash"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/kirby_amazing_mirror/trophies/sparky"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/kirby_amazing_mirror/trophies/sword_knight"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/kirby_amazing_mirror/trophies/twister"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/kirby_amazing_mirror/trophies/waddle_doo"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/kirby_amazing_mirror/trophies/wheelie"
+        }
+      ]
+    }
+  ]
+}

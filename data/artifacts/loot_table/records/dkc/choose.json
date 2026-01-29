@@ -1,0 +1,33 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:records/dkc/aquatic_ambiance"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:records/dkc/bad_boss_bogie"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:records/dkc/bonus_room_blitz"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:records/dkc/dk_island_swing"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:records/dkc/fear_factory"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:records/dkc/mine_cart_madness"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,301 @@
+{
+  "type": "minecraft:entity",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/dkc/choose",
+          "conditions": [
+            {
+              "condition": "minecraft:location_check",
+              "predicate": {
+                "biomes": "#artifacts:dkc"
+              }
+            }
+          ]
+        }
+      ],
+      "conditions": [
+        {
+          "condition": "minecraft:random_chance_with_enchanted_bonus",
+          "unenchanted_chance": 0.005,
+          "enchanted_chance": {
+            "type": "linear",
+            "base": 0.005,
+            "per_level_above_first": 0.02
+          },
+          "enchantment": "minecraft:looting"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/inscryption/choose",
+          "conditions": [
+            {
+              "condition": "minecraft:location_check",
+              "predicate": {
+                "biomes": "#artifacts:inscryption"
+              }
+            }
+          ]
+        }
+      ],
+      "conditions": [
+        {
+          "condition": "minecraft:random_chance_with_enchanted_bonus",
+          "unenchanted_chance": 0.005,
+          "enchanted_chance": {
+            "type": "linear",
+            "base": 0.005,
+            "per_level_above_first": 0.02
+          },
+          "enchantment": "minecraft:looting"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/junk_jack/choose",
+          "conditions": [
+            {
+              "condition": "minecraft:location_check",
+              "predicate": {
+                "biomes": "#artifacts:junk_jack"
+              }
+            }
+          ]
+        }
+      ],
+      "conditions": [
+        {
+          "condition": "minecraft:random_chance_with_enchanted_bonus",
+          "unenchanted_chance": 0.005,
+          "enchanted_chance": {
+            "type": "linear",
+            "base": 0.005,
+            "per_level_above_first": 0.02
+          },
+          "enchantment": "minecraft:looting"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/kirby_amazing_mirror/choose",
+          "conditions": [
+            {
+              "condition": "minecraft:location_check",
+              "predicate": {
+                "biomes": "#artifacts:kirby_amazing_mirror"
+              }
+            }
+          ]
+        }
+      ],
+      "conditions": [
+        {
+          "condition": "minecraft:random_chance_with_enchanted_bonus",
+          "unenchanted_chance": 0.005,
+          "enchanted_chance": {
+            "type": "linear",
+            "base": 0.005,
+            "per_level_above_first": 0.02
+          },
+          "enchantment": "minecraft:looting"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/pokeballs/choose",
+          "conditions": [
+            {
+              "condition": "minecraft:location_check",
+              "predicate": {
+                "biomes": "#artifacts:pokemon/pokeballs"
+              }
+            }
+          ]
+        }
+      ],
+      "conditions": [
+        {
+          "condition": "minecraft:random_chance_with_enchanted_bonus",
+          "unenchanted_chance": 0.005,
+          "enchanted_chance": {
+            "type": "linear",
+            "base": 0.005,
+            "per_level_above_first": 0.02
+          },
+          "enchantment": "minecraft:looting"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/choose",
+          "conditions": [
+            {
+              "condition": "minecraft:location_check",
+              "predicate": {
+                "biomes": "#artifacts:pokemon/minis"
+              }
+            }
+          ]
+        }
+      ],
+      "conditions": [
+        {
+          "condition": "minecraft:random_chance_with_enchanted_bonus",
+          "unenchanted_chance": 0.005,
+          "enchanted_chance": {
+            "type": "linear",
+            "base": 0.005,
+            "per_level_above_first": 0.02
+          },
+          "enchantment": "minecraft:looting"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/powder/choose",
+          "conditions": [
+            {
+              "condition": "minecraft:location_check",
+              "predicate": {
+                "biomes": "#artifacts:powder"
+              }
+            }
+          ]
+        }
+      ],
+      "conditions": [
+        {
+          "condition": "minecraft:random_chance_with_enchanted_bonus",
+          "unenchanted_chance": 0.005,
+          "enchanted_chance": {
+            "type": "linear",
+            "base": 0.005,
+            "per_level_above_first": 0.02
+          },
+          "enchantment": "minecraft:looting"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/super_mario_world/choose",
+          "conditions": [
+            {
+              "condition": "minecraft:location_check",
+              "predicate": {
+                "biomes": "#artifacts:super_mario_world"
+              }
+            }
+          ]
+        }
+      ],
+      "conditions": [
+        {
+          "condition": "minecraft:random_chance_with_enchanted_bonus",
+          "unenchanted_chance": 0.005,
+          "enchanted_chance": {
+            "type": "linear",
+            "base": 0.005,
+            "per_level_above_first": 0.02
+          },
+          "enchantment": "minecraft:looting"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/terraria/choose",
+          "conditions": [
+            {
+              "condition": "minecraft:location_check",
+              "predicate": {
+                "biomes": "#artifacts:terraria"
+              }
+            }
+          ]
+        }
+      ],
+      "conditions": [
+        {
+          "condition": "minecraft:random_chance_with_enchanted_bonus",
+          "unenchanted_chance": 0.005,
+          "enchanted_chance": {
+            "type": "linear",
+            "base": 0.005,
+            "per_level_above_first": 0.02
+          },
+          "enchantment": "minecraft:looting"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/warioware_inc/choose",
+          "conditions": [
+            {
+              "condition": "minecraft:location_check",
+              "predicate": {
+                "biomes": "#artifacts:warioware_inc"
+              }
+            }
+          ]
+        }
+      ],
+      "conditions": [
+        {
+          "condition": "minecraft:random_chance_with_enchanted_bonus",
+          "unenchanted_chance": 0.005,
+          "enchanted_chance": {
+            "type": "linear",
+            "base": 0.005,
+            "per_level_above_first": 0.02
+          },
+          "enchantment": "minecraft:looting"
+        }
+      ]
+    }
+  ],
+  "functions": [
+    {
+      "function": "minecraft:limit_count",
+      "limit": 1
+    }
+  ]
+}

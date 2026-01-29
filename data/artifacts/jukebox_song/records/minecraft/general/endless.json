@@ -1,0 +1,9 @@
+{
+    "comparator_output": 4,
+    "description": "Lena Raine - Endless",
+    "length_in_seconds": 402.0,
+    "sound_event": {
+        "sound_id": "artifacts:music.minecraft.general.endless",
+        "range": 64
+    }
+}

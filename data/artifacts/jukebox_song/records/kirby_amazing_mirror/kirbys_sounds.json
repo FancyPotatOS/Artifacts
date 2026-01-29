@@ -1,0 +1,9 @@
+{
+    "comparator_output": 9,
+    "description": "H. Inagaki + A. Isemura - Candy Constellation",
+    "length_in_seconds": 140.0,
+    "sound_event": {
+        "sound_id": "artifacts:music.kirby_amazing_mirror.candy_constellation",
+        "range": 64
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "pools": [
+        {
+            "rolls": 1.0,
+            "entries": [
+                {
+                    "type": "minecraft:loot_table",
+                    "value": "artifacts:records/minecraft/swamp/aerie"
+                },
+                {
+                    "type": "minecraft:loot_table",
+                    "value": "artifacts:records/minecraft/swamp/firebugs"
+                },
+                {
+                    "type": "minecraft:loot_table",
+                    "value": "artifacts:records/minecraft/swamp/labyrinthine"
+                }
+            ]
+        }
+    ]
+}

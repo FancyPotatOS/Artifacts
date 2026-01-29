@@ -1,0 +1,9 @@
+{
+    "comparator_output": 9,
+    "description": "Go Ichinose - Battle! (Wild Pokemon)",
+    "length_in_seconds": 92.0,
+    "sound_event": {
+        "sound_id": "artifacts:music.pokemon.frlg_battle_wild_pokemon",
+        "range": 64
+    }
+}

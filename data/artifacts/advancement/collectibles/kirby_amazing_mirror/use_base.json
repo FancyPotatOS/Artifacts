@@ -1,0 +1,24 @@
+{
+  "criteria": {
+    "artifacts.collectibles.kirby_amazing_mirror.use_base": {
+      "trigger": "minecraft:using_item",
+      "conditions": {
+        "item": {
+          "items": "minecraft:poisonous_potato",
+          "predicates": {
+            "minecraft:custom_data": {
+              "artifacts": {
+                "group": "kirby_amazing_mirror",
+                "has_base": true,
+                "is_base": true
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "artifacts:collectibles/kirby_amazing_mirror/use_base"
+  }
+}

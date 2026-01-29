@@ -1,0 +1,48 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:poisonous_potato",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_model_data": {
+                  "strings": [
+                    "artifacts:collectibles/inscryption",
+                    "artifacts:handy"
+                  ]
+                },
+                "rarity": "epic",
+                "minecraft:item_name": {
+                  "text": "Sigil",
+                  "color": "#D7EAF1",
+                  "italic": false
+                },
+                "minecraft:max_stack_size": 52,
+                "minecraft:lore": [
+                  {
+                    "text": "Handy",
+                    "italic": false,
+                    "color": "#c3cca6",
+                    "bold": true
+                  },
+                  {"text":"Inscryption","italic": false,"color":"#DDD9D8"}
+                ],
+                "!minecraft:consumable": {},
+                "!minecraft:food": {}
+              }
+            },
+            {
+              "function": "minecraft:reference",
+              "name": "artifacts:unstackable_stackable"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

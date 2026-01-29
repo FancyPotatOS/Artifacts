@@ -1,0 +1,21 @@
+{
+    "pools": [
+        {
+            "rolls": 1.0,
+            "entries": [
+                {
+                    "type": "minecraft:loot_table",
+                    "value": "artifacts:records/minecraft/end/alpha"
+                },
+                {
+                    "type": "minecraft:loot_table",
+                    "value": "artifacts:records/minecraft/end/boss"
+                },
+                {
+                    "type": "minecraft:loot_table",
+                    "value": "artifacts:records/minecraft/end/the_end"
+                }
+            ]
+        }
+    ]
+}

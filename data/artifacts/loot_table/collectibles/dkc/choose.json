@@ -1,0 +1,25 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/dkc/enguarde"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/dkc/expresso"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/dkc/rambi"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/dkc/winky"
+        }
+      ]
+    }
+  ]
+}

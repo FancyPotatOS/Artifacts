@@ -1,0 +1,9 @@
+{
+    "comparator_output": 8,
+    "description": "C418 - Axolotl",
+    "length_in_seconds": 303.0,
+    "sound_event": {
+        "sound_id": "artifacts:music.minecraft.water.axolotl",
+        "range": 64
+    }
+}

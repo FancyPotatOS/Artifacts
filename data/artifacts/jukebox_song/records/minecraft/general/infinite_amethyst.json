@@ -1,0 +1,9 @@
+{
+    "comparator_output": 4,
+    "description": "Lena Raine - Infinite Amethyst",
+    "length_in_seconds": 271.0,
+    "sound_event": {
+        "sound_id": "artifacts:music.minecraft.general.infinite_amethyst",
+        "range": 64
+    }
+}

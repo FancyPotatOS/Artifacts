@@ -1,0 +1,9 @@
+{
+    "comparator_output": 4,
+    "description": "Lena Raine - Eld Unknown",
+    "length_in_seconds": 296.0,
+    "sound_event": {
+        "sound_id": "artifacts:music.minecraft.general.eld_unknown",
+        "range": 64
+    }
+}

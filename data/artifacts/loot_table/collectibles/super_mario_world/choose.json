@@ -1,0 +1,69 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/super_mario_world/blue_egg"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/super_mario_world/blue_shell"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/super_mario_world/feather"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/super_mario_world/green_egg"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/super_mario_world/green_shell"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/super_mario_world/grey_shell"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/super_mario_world/key"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/super_mario_world/magic_ball"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/super_mario_world/mushroom"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/super_mario_world/one_up"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/super_mario_world/red_egg"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/super_mario_world/red_shell"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/super_mario_world/turquoise_shell"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/super_mario_world/yellow_egg"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/super_mario_world/yellow_shell"
+        }
+      ]
+    }
+  ]
+}

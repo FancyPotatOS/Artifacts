@@ -1,0 +1,9 @@
+{
+    "comparator_output": 1,
+    "description": "C418 - Living Mice",
+    "length_in_seconds": 188.0,
+    "sound_event": {
+        "sound_id": "artifacts:music.minecraft.alpha.living_mice",
+        "range": 64
+    }
+}

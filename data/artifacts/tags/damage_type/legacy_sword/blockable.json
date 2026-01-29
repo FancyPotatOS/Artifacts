@@ -1,0 +1,29 @@
+{
+    "values": [
+        "minecraft:arrow",
+        "minecraft:cactus",
+        "minecraft:explosion",
+        "minecraft:falling_anvil",
+        "minecraft:falling_block",
+        "minecraft:falling_stalactite",
+        "minecraft:fireball",
+        "minecraft:fireworks",
+        "minecraft:generic",
+        "minecraft:generic_kill",
+        "minecraft:lightning_bolt",
+        "minecraft:mace_smash",
+        "minecraft:mob_attack",
+        "minecraft:mob_attack_no_aggro",
+        "minecraft:mob_projectile",
+        "minecraft:player_attack",
+        "minecraft:player_explosion",
+        "minecraft:sonic_boom",
+        "minecraft:spit",
+        "minecraft:stalagmite",
+        "minecraft:sting",
+        "minecraft:sweet_berry_bush",
+        "minecraft:trident",
+        "minecraft:unattributed_fireball",
+        "minecraft:wind_charge"
+    ]
+}

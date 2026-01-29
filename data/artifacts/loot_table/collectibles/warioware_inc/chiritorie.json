@@ -1,0 +1,42 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:poisonous_potato",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_model_data": {
+                  "strings": [
+                    "artifacts:collectibles/warioware_inc",
+                    "artifacts:chiritorie"
+                  ]
+                },
+                "rarity": "rare",
+                "minecraft:item_name": {
+                  "text": "Chiritorie",
+                  "color": "#D7EAF1",
+                  "italic": false
+                },
+                "minecraft:max_stack_size": 17,
+                "lore": [
+                  {"text":"WarioWare, Inc.","italic": false,"color":"#0020F4"}
+                ],
+                "!minecraft:consumable": {},
+                "!minecraft:food": {}
+              }
+            },
+            {
+              "function": "minecraft:reference",
+              "name": "artifacts:unstackable_stackable"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

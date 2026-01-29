@@ -1,0 +1,9 @@
+{
+    "comparator_output": 2,
+    "description": "C418 - Dreiton",
+    "length_in_seconds": 497.0,
+    "sound_event": {
+        "sound_id": "artifacts:music.minecraft.creative.dreiton",
+        "range": 64
+    }
+}

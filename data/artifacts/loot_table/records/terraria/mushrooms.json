@@ -1,0 +1,33 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:music_disc_11",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_model_data": {
+                  "strings": [
+                    "artifacts:terraria",
+                    "artifacts:adamantite"
+                  ]
+                },
+                "rarity": "rare",
+                "minecraft:jukebox_playable": "artifacts:records/terraria/mushrooms",
+                "minecraft:max_stack_size": 5
+              }
+            },
+            {
+              "function": "minecraft:reference",
+              "name": "artifacts:unstackable_stackable"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

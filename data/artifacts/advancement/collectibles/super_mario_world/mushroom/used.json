@@ -1,0 +1,23 @@
+{
+  "criteria": {
+    "artifacts.collectibles.super_mario_world.mushroom.use": {
+      "trigger": "minecraft:using_item",
+      "conditions": {
+        "item": {
+          "items": "minecraft:goat_horn",
+          "components": {},
+          "predicates": {
+            "minecraft:custom_data": {
+              "artifacts": {
+                "type": "mushroom"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "artifacts:collectibles/super_mario_world/mushroom/used_advancement"
+  }
+}

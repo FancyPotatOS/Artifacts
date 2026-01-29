@@ -1,0 +1,9 @@
+{
+    "comparator_output": 9,
+    "description": "James Primate - Mayan Ruins",
+    "length_in_seconds": 171.0,
+    "sound_event": {
+        "sound_id": "artifacts:music.junk_jack.mayan_ruins",
+        "range": 64
+    }
+}

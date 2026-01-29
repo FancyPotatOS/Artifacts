@@ -1,0 +1,65 @@
+{
+    "condition": "any_of",
+    "terms": [
+        {
+            "condition": "entity_properties",
+            "entity": "this",
+            "predicate": {
+                "equipment": {
+                    "chest": {
+                        "predicates": {
+                        "minecraft:enchantments": [
+                            {
+                                "enchantments": "artifacts:curse_of_greed",
+                                "levels": {
+                                    "min": 1
+                                }
+                            }
+                        ]
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "condition": "entity_properties",
+            "entity": "attacking_player",
+            "predicate": {
+                "equipment": {
+                    "chest": {
+                        "predicates": {
+                        "minecraft:enchantments": [
+                            {
+                                "enchantments": "artifacts:curse_of_greed",
+                                "levels": {
+                                    "min": 1
+                                }
+                            }
+                        ]
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "condition": "entity_properties",
+            "entity": "attacker",
+            "predicate": {
+                "equipment": {
+                    "chest": {
+                        "predicates": {
+                        "minecraft:enchantments": [
+                            {
+                                "enchantments": "artifacts:curse_of_greed",
+                                "levels": {
+                                    "min": 1
+                                }
+                            }
+                        ]
+                        }
+                    }
+                }
+            }
+        }
+    ]
+}

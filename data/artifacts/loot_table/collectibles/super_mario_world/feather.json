@@ -1,0 +1,67 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:goat_horn",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_model_data": {
+                  "strings": [
+                    "artifacts:collectibles/super_mario_world",
+                    "artifacts:feather"
+                  ]
+                },
+                "rarity": "rare",
+                "minecraft:item_name": {
+                  "text": "Feather",
+                  "color": "#D7EAF1",
+                  "italic": false
+                },
+                "minecraft:instrument": {
+                  "use_duration": 7,
+                  "range": 20,
+                  "description": "Feather",
+                  "sound_event": {
+                    "sound_id": "artifacts:collectibles.super_mario_world.feather_get",
+                    "range": 20
+                  }
+                },
+                "minecraft:max_stack_size": 15,
+                "lore": [
+                  [
+                    {"text":"S","italic": false,"color":"#FF3939"},
+                    {"text":"u","italic": false,"color":"#00DEFF"},
+                    {"text":"p","italic": false,"color":"#FFCE29"},
+                    {"text":"e","italic": false,"color":"#00DEFF"},
+                    {"text":"r ","italic": false,"color":"#00CE00"},
+
+                    {"text":"M","italic": false,"color":"#00CE00"},
+                    {"text":"a","italic": false,"color":"#00DEFF"},
+                    {"text":"r","italic": false,"color":"#FFCE29"},
+                    {"text":"i","italic": false,"color":"#FF3939"},
+                    {"text":"o ","italic": false,"color":"#00CE00"},
+
+                    {"text":"W","italic": false,"color":"#FFCE29"},
+                    {"text":"o","italic": false,"color":"#00DEFF"},
+                    {"text":"r","italic": false,"color":"#00CE00"},
+                    {"text":"l","italic": false,"color":"#FF3939"},
+                    {"text":"d","italic": false,"color":"#00CE00"}
+                  ]
+                ]
+              }
+            },
+            {
+              "function": "minecraft:reference",
+              "name": "artifacts:unstackable_stackable"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+    "comparator_output": 2,
+    "description": "Lena Raine - One More Day",
+    "length_in_seconds": 278.0,
+    "sound_event": {
+        "sound_id": "artifacts:music.minecraft.creative.one_more_day",
+        "range": 64
+    }
+}

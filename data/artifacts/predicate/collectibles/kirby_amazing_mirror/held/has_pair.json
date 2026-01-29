@@ -1,0 +1,31 @@
+{
+    "condition": "minecraft:any_of",
+    "terms": [
+        {
+            "condition": "minecraft:all_of",
+            "terms": [
+                {
+                    "condition": "minecraft:reference",
+                    "name": "artifacts:collectibles/kirby_amazing_mirror/held/left_hand/is_trophy_base"
+                },
+                {
+                    "condition": "minecraft:reference",
+                    "name": "artifacts:collectibles/kirby_amazing_mirror/held/right_hand/is_trophy_no_base"
+                }
+            ]
+        },
+        {
+            "condition": "minecraft:all_of",
+            "terms": [
+                {
+                    "condition": "minecraft:reference",
+                    "name": "artifacts:collectibles/kirby_amazing_mirror/held/right_hand/is_trophy_base"
+                },
+                {
+                    "condition": "minecraft:reference",
+                    "name": "artifacts:collectibles/kirby_amazing_mirror/held/left_hand/is_trophy_no_base"
+                }
+            ]
+        }
+    ]
+}

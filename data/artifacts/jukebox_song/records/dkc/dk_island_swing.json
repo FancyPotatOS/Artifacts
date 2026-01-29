@@ -1,0 +1,9 @@
+{
+    "comparator_output": 9,
+    "description": "David Wise - DK Island Swing",
+    "length_in_seconds": 315.0,
+    "sound_event": {
+        "sound_id": "artifacts:music.dkc.dk_island_swing",
+        "range": 64
+    }
+}

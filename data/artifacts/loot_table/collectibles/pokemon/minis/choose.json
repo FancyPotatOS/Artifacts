@@ -1,0 +1,1553 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/bulbasaur"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/ivysaur"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/venusaur"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/charmander"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/charmeleon"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/charizard"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/squirtle"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/wartortle"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/blastoise"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/caterpie"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/metapod"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/butterfree"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/weedle"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/kakuna"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/beedrill"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/pidgey"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/pidgeotto"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/pidgeot"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/rattata"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/raticate"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/spearow"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/fearow"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/ekans"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/arbok"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/pikachu"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/raichu"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/sandshrew"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/sandslash"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/nidoranf"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/nidorina"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/nidoqueen"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/nidoranm"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/nidorino"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/nidoking"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/clefairy"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/clefable"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/vulpix"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/ninetales"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/jigglypuff"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/wigglytuff"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/zubat"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/golbat"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/oddish"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/gloom"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/vileplume"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/paras"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/parasect"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/venonat"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/venomoth"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/diglett"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/dugtrio"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/meowth"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/persian"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/psyduck"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/golduck"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/mankey"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/primeape"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/growlithe"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/arcanine"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/poliwag"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/poliwhirl"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/poliwrath"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/abra"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/kadabra"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/alakazam"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/machop"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/machoke"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/machamp"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/bellsprout"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/weepinbell"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/victreebel"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/tentacool"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/tentacruel"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/geodude"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/graveler"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/golem"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/ponyta"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/rapidash"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/slowpoke"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/slowbro"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/magnemite"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/magneton"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/farfetchd"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/doduo"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/dodrio"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/seel"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/dewgong"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/grimer"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/muk"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/shellder"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/cloyster"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/gastly"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/haunter"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/gengar"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/onix"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/drowzee"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/hypno"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/krabby"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/kingler"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/voltorb"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/electrode"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/exeggcute"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/exeggutor"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/cubone"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/marowak"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/hitmonlee"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/hitmonchan"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/lickitung"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/koffing"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/weezing"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/rhyhorn"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/rhydon"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/chansey"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/tangela"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/kangaskhan"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/horsea"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/seadra"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/goldeen"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/seaking"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/staryu"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/starmie"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/mr_mime"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/scyther"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/jynx"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/electabuzz"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/magmar"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/pinsir"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/tauros"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/magikarp"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/gyarados"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/lapras"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/ditto"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/eevee"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/vaporeon"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/jolteon"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/flareon"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/porygon"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/omanyte"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/omastar"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/kabuto"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/kabutops"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/aerodactyl"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/snorlax"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/articuno"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/zapdos"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/moltres"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/dratini"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/dragonair"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/dragonite"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/mewtwo"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/mew"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/chikorita"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/bayleef"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/meganium"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/cyndaquil"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/quilava"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/typhlosion"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/totodile"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/croconaw"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/feraligatr"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/sentret"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/furret"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/hoothoot"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/noctowl"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/ledyba"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/ledian"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/spinarak"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/ariados"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/crobat"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/chinchou"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/lanturn"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/pichu"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/cleffa"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/igglybuff"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/togepi"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/togetic"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/natu"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/xatu"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/mareep"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/flaaffy"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/ampharos"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/bellossom"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/marill"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/azumarill"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/sudowoodo"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/politoed"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/hoppip"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/skiploom"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/jumpluff"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/aipom"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/sunkern"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/sunflora"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/yanma"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/wooper"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/quagsire"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/espeon"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/umbreon"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/murkrow"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/slowking"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/misdreavus"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/unown"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/wobbuffet"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/girafarig"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/pineco"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/forretress"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/dunsparce"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/gligar"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/steelix"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/snubbull"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/granbull"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/qwilfish"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/scizor"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/shuckle"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/heracross"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/sneasel"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/teddiursa"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/ursaring"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/slugma"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/magcargo"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/swinub"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/piloswine"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/corsola"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/remoraid"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/octillery"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/delibird"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/mantine"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/skarmory"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/houndour"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/houndoom"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/kingdra"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/phanpy"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/donphan"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/porygon2"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/stantler"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/smeargle"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/tyrogue"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/hitmontop"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/smoochum"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/elekid"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/magby"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/miltank"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/blissey"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/raikou"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/entei"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/suicune"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/larvitar"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/pupitar"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/tyranitar"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/lugia"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/hooh"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/celebi"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/treecko"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/grovyle"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/sceptile"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/torchic"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/combusken"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/blaziken"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/mudkip"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/marshtomp"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/swampert"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/poochyena"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/mightyena"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/zigzagoon"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/linoone"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/wurmple"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/silcoon"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/beautifly"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/cascoon"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/dustox"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/lotad"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/lombre"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/ludicolo"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/seedot"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/nuzleaf"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/shiftry"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/taillow"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/swellow"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/wingull"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/pelipper"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/ralts"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/kirlia"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/gardevoir"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/surskit"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/masquerain"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/shroomish"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/breloom"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/slakoth"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/vigoroth"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/slaking"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/nincada"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/ninjask"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/shedinja"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/whismur"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/loudred"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/exploud"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/makuhita"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/hariyama"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/azurill"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/nosepass"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/skitty"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/delcatty"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/sableye"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/mawile"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/aron"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/lairon"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/aggron"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/meditite"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/medicham"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/electrike"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/manectric"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/plusle"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/minun"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/volbeat"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/illumise"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/roselia"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/gulpin"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/swalot"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/carvanha"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/sharpedo"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/wailmer"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/wailord"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/numel"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/camerupt"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/torkoal"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/spoink"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/grumpig"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/spinda"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/trapinch"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/vibrava"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/flygon"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/cacnea"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/cacturne"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/swablu"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/altaria"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/zangoose"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/seviper"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/lunatone"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/solrock"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/barboach"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/whiscash"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/corphish"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/crawdaunt"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/baltoy"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/claydol"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/lileep"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/cradily"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/anorith"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/armaldo"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/feebas"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/milotic"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/castform"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/kecleon"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/shuppet"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/banette"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/duskull"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/dusclops"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/tropius"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/chimecho"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/absol"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/wynaut"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/snorunt"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/glalie"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/spheal"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/sealeo"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/walrein"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/clamperl"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/huntail"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/gorebyss"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/relicanth"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/luvdisc"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/bagon"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/shelgon"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/salamence"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/beldum"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/metang"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/metagross"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/regirock"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/regice"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/registeel"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/latias"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/latios"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/kyogre"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/groudon"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/rayquaza"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/jirachi"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/pokemon/minis/deoxys"
+        }
+      ]
+    }
+  ]
+}

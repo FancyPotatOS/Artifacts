@@ -1,0 +1,54 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:diamond_axe",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_model_data": {
+                  "strings": [
+                    "artifacts:tools/diamond_shovelaxe"
+                  ]
+                },
+                "minecraft:item_name": {
+                  "text": "Diamond Shovelaxe",
+                  "color": "aqua",
+                  "bold": false,
+                  "italic": false,
+                  "underlined": false,
+                  "strikethrough": false,
+                  "obfuscated": false
+                },
+                "minecraft:damage_resistant": {
+                  "types": "#artifacts:all"
+                },
+                "minecraft:rarity": "rare",
+                "minecraft:tool": {
+                  "rules": [
+                    {
+                      "blocks": "#minecraft:mineable/shovel",
+                      "speed": 8,
+                      "correct_for_drops": true
+                    },
+                    {
+                      "blocks": "#minecraft:mineable/axe",
+                      "speed": 8,
+                      "correct_for_drops": true
+                    }
+                  ],
+                  "default_mining_speed": 1,
+                  "damage_per_block": 1
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:diamond_sword",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:damage_resistant": {
+                  "types": "#artifacts:all"
+                },
+                "minecraft:rarity": "rare",
+                "minecraft:blocks_attacks": {
+                  "block_delay_seconds": 0,
+                  "disable_cooldown_scale": 0,
+                  "damage_reductions": [
+                    {
+                      "type": "#artifacts:legacy_sword/blockable",
+                      "base": 0,
+                      "factor": 0.5,
+                      "horizontal_blocking_angle": 90
+                    }
+                  ],
+                  "item_damage": {
+                    "threshold": 1000000,
+                    "base": 0,
+                    "factor": 0
+                  }
+                },
+                "minecraft:lore": [
+                  {
+                    "text": "Uses legacy",
+                    "color": "#64c062",
+                    "italic": false
+                  },
+                  {
+                    "text": "combat mechanics",
+                    "color": "#64c062",
+                    "italic": false
+                  }
+                ],
+                "minecraft:item_name": {
+                  "text": "Legacy Sword",
+                  "color": "aqua",
+                  "italic": false
+                },
+                "minecraft:attribute_modifiers": [
+                  {
+                    "type": "minecraft:attack_speed",
+                    "id": "artifacts:weapons/legacy_sword",
+                    "amount": 1000000,
+                    "operation": "add_value",
+                    "slot": "mainhand"
+                  }
+                ],
+                "minecraft:tooltip_display": {
+                    "hidden_components": [
+                        "minecraft:attribute_modifiers"
+                    ]
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

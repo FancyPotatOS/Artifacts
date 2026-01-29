@@ -1,0 +1,9 @@
+{
+    "comparator_output": 9,
+    "description": "Scott L. Shelly - Town (Day)",
+    "length_in_seconds": 125.0,
+    "sound_event": {
+        "sound_id": "artifacts:music.terraria.town_day",
+        "range": 64
+    }
+}

@@ -1,0 +1,38 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:music_disc_11",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_model_data": {
+                  "strings": [
+                    "artifacts:kirby_amazing_mirror",
+                    "artifacts:enemy_sounds"
+                  ]
+                },
+                "rarity": "rare",
+                "minecraft:item_name": {
+                  "text": "Sheet Music",
+                  "color": "aqua",
+                  "italic": false
+                },
+                "minecraft:jukebox_playable": "artifacts:records/kirby_amazing_mirror/enemy_sounds",
+                "minecraft:max_stack_size": 11
+              }
+            },
+            {
+              "function": "minecraft:reference",
+              "name": "artifacts:unstackable_stackable"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

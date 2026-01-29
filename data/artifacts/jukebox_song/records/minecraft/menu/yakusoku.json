@@ -1,0 +1,9 @@
+{
+    "comparator_output": 5,
+    "description": "Kumi Tanioka - yakusoku",
+    "length_in_seconds": 271.0,
+    "sound_event": {
+        "sound_id": "artifacts:music.minecraft.menu.yakusoku",
+        "range": 64
+    }
+}

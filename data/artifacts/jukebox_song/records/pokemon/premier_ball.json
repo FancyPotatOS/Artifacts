@@ -1,0 +1,9 @@
+{
+    "comparator_output": 9,
+    "description": "Junichi Masuda - Battle! (Team Aqua Team Magma)",
+    "length_in_seconds": 200.0,
+    "sound_event": {
+        "sound_id": "artifacts:music.pokemon.rse_battle_team_aqua_team_magma",
+        "range": 64
+    }
+}

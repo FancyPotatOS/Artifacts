@@ -1,0 +1,37 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/powder/black_heart"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/powder/bloody_book"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/powder/glass_wand"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/powder/gold_necklace"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/powder/mobius_ring"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/powder/y_rune"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/powder/yellow_potion"
+        }
+      ]
+    }
+  ]
+}

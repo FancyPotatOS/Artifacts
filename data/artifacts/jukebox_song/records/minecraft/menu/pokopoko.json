@@ -1,0 +1,9 @@
+{
+    "comparator_output": 5,
+    "description": "Kumi Tanioka - pokopoko",
+    "length_in_seconds": 304.0,
+    "sound_event": {
+        "sound_id": "artifacts:music.minecraft.menu.pokopoko",
+        "range": 64
+    }
+}

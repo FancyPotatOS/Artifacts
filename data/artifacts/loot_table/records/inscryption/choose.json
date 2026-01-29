@@ -1,0 +1,21 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:records/inscryption/deathcard_cabin_reprise"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:records/inscryption/grimoras_crypt"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:records/inscryption/the_temple_of_magicks"
+        }
+      ]
+    }
+  ]
+}

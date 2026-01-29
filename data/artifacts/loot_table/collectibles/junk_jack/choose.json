@@ -1,0 +1,57 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/junk_jack/alba"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/junk_jack/cryo"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/junk_jack/lilith"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/junk_jack/magmar"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/junk_jack/mykon"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/junk_jack/seth"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/junk_jack/terra"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/junk_jack/thetis"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/junk_jack/tor"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/junk_jack/umbra"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/junk_jack/xeno"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/junk_jack/yuca"
+        }
+      ]
+    }
+  ]
+}

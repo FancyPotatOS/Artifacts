@@ -1,0 +1,9 @@
+{
+    "comparator_output": 2,
+    "description": "Aaron Cherof - A Familiar Room",
+    "length_in_seconds": 241.0,
+    "sound_event": {
+        "sound_id": "artifacts:music.minecraft.creative.a_familiar_room",
+        "range": 64
+    }
+}

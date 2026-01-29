@@ -1,0 +1,25 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:records/junk_jack/junk_jack"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:records/junk_jack/noble_workman_overture"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:records/junk_jack/mayan_ruins"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:records/junk_jack/tunnels"
+        }
+      ]
+    }
+  ]
+}

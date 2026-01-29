@@ -1,0 +1,53 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:records/kirby_amazing_mirror/battle_notes"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:records/kirby_amazing_mirror/beginning_notes"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:records/kirby_amazing_mirror/dream_notes"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:records/kirby_amazing_mirror/enemy_sounds"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:records/kirby_amazing_mirror/happy_notes"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:records/kirby_amazing_mirror/kirbys_sounds"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:records/kirby_amazing_mirror/secret_notes"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:records/kirby_amazing_mirror/secret_sounds"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:records/kirby_amazing_mirror/sound_effects"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:records/kirby_amazing_mirror/spunky_notes"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:records/kirby_amazing_mirror/party_notes"
+        }
+      ]
+    }
+  ]
+}

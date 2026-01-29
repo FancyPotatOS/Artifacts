@@ -1,0 +1,9 @@
+{
+    "comparator_output": 9,
+    "description": "H. Inagaki + A. Isemura - Moonlight Mansion",
+    "length_in_seconds": 54.0,
+    "sound_event": {
+        "sound_id": "artifacts:music.kirby_amazing_mirror.moonlight_mansion",
+        "range": 64
+    }
+}

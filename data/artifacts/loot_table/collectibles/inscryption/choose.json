@@ -1,0 +1,217 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/inscryption/mightyleap"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/inscryption/bifurcatedstrike"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/inscryption/trifurcatedstrike"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/inscryption/frozenaway"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/inscryption/steeltrap"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/inscryption/rabbithole"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/inscryption/sprinter"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/inscryption/touchofdeath"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/inscryption/fledgeling"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/inscryption/burrower"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/inscryption/fecundity"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/inscryption/boneking"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/inscryption/unkillable"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/inscryption/sharpquills"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/inscryption/hefty"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/inscryption/guardian"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/inscryption/airbourne"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/inscryption/manylives"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/inscryption/repulsive"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/inscryption/worthysacrifice"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/inscryption/bonedigger"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/inscryption/brittle"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/inscryption/skeletoncrew"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/inscryption/greenmox"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/inscryption/orangemox"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/inscryption/bluemox"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/inscryption/gemanimator"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/inscryption/rubyheart"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/inscryption/mentalgemnastics"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/inscryption/gemdependant"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/inscryption/greatmox"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/inscryption/handy"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/inscryption/squirrelshedder"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/inscryption/attackconduit"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/inscryption/spawnconduit"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/inscryption/nullconduit"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/inscryption/batterybearer"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/inscryption/detonator"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/inscryption/sentry"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/inscryption/energyconduit"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/inscryption/bombspewer"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/inscryption/doubledeath"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/inscryption/powerdice"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/inscryption/enlarge"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/inscryption/disentomb"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/inscryption/energygun"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/inscryption/looter"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/inscryption/truescholar"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/inscryption/stimulate"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/inscryption/bonehorn"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/inscryption/waterborne"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/inscryption/krakenwaterborne"
+        }
+      ]
+    }
+  ]
+}

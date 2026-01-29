@@ -1,0 +1,41 @@
+{
+    "type": "minecraft:entity",
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:loot_table",
+                    "value": "artifacts:entity/collectibles"
+                }
+            ],
+            "conditions": [
+                {
+                    "condition": "minecraft:reference",
+                    "name": "artifacts:entity/generates_collectibles"
+                }
+            ]
+        },
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:loot_table",
+                    "value": "artifacts:entity/records"
+                }
+            ],
+            "conditions": [
+                {
+                    "condition": "minecraft:reference",
+                    "name": "artifacts:entity/generates_records"
+                }
+            ]
+        }
+    ],
+    "functions": [
+        {
+            "function": "minecraft:limit_count",
+            "limit": 1
+        }
+    ]
+}

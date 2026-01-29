@@ -1,0 +1,9 @@
+{
+    "comparator_output": 6,
+    "description": "Lena Raine - So Below",
+    "length_in_seconds": 318.0,
+    "sound_event": {
+        "sound_id": "artifacts:music.minecraft.nether.so_below",
+        "range": 64
+    }
+}

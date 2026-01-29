@@ -1,0 +1,73 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/terraria/abeemination"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/terraria/bloody_spine"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/terraria/celestial_sigil"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/terraria/clothier_voodoo_doll"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/terraria/deer_thing"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/terraria/gelatin_crystal"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/terraria/guide_voodoo_doll"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/terraria/lihzahrd_power_cell"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/terraria/mechanical_eye"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/terraria/mechanical_skull"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/terraria/mechanical_worm"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/terraria/prismatic_lacewing"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/terraria/slime_crown"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/terraria/suspicious_looking_eye"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/terraria/truffle_worm"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:collectibles/terraria/worm_food"
+        }
+      ]
+    }
+  ]
+}

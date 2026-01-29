@@ -1,0 +1,9 @@
+{
+    "comparator_output": 9,
+    "description": "Scott L. Shelly - Boss 2",
+    "length_in_seconds": 106.0,
+    "sound_event": {
+        "sound_id": "artifacts:music.terraria.boss_2",
+        "range": 64
+    }
+}

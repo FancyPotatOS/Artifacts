@@ -1,0 +1,23 @@
+{
+  "criteria": {
+    "artifacts.enchantment.toggle_curse_of_greed": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_scores",
+            "entity": "this",
+            "scores": {
+              "toggle_curse_of_greed": {
+                "min": 1
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "function": "artifacts:enchantment/curse_of_greed/triggered"
+  }
+}

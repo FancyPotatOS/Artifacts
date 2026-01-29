@@ -1,0 +1,10 @@
+{
+  "criteria": {
+    "artifacts.first_kill": {
+      "trigger": "minecraft:player_killed_entity"
+    }
+  },
+  "rewards": {
+    "function": "artifacts:advancement/first_kill"
+  }
+}

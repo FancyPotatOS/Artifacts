@@ -1,0 +1,9 @@
+{
+    "comparator_output": 4,
+    "description": "Lena Raine - Stand Tall",
+    "length_in_seconds": 308.0,
+    "sound_event": {
+        "sound_id": "artifacts:music.minecraft.general.stand_tall",
+        "range": 64
+    }
+}

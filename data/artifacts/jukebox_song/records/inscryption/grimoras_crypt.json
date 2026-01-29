@@ -1,0 +1,9 @@
+{
+    "comparator_output": 9,
+    "description": "Jonah Senzel - Grimora's Crypt",
+    "length_in_seconds": 361.0,
+    "sound_event": {
+        "sound_id": "artifacts:music.inscryption.grimoras_crypt",
+        "range": 64
+    }
+}

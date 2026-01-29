@@ -1,0 +1,57 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "artifacts:records/pokemon/dive_ball"
+        },
+        {
+          "type": "loot_table",
+          "value": "artifacts:records/pokemon/great_ball"
+        },
+        {
+          "type": "loot_table",
+          "value": "artifacts:records/pokemon/luxury_ball"
+        },
+        {
+          "type": "loot_table",
+          "value": "artifacts:records/pokemon/master_ball"
+        },
+        {
+          "type": "loot_table",
+          "value": "artifacts:records/pokemon/nest_ball"
+        },
+        {
+          "type": "loot_table",
+          "value": "artifacts:records/pokemon/net_ball"
+        },
+        {
+          "type": "loot_table",
+          "value": "artifacts:records/pokemon/poke_ball"
+        },
+        {
+          "type": "loot_table",
+          "value": "artifacts:records/pokemon/premier_ball"
+        },
+        {
+          "type": "loot_table",
+          "value": "artifacts:records/pokemon/repeat_ball"
+        },
+        {
+          "type": "loot_table",
+          "value": "artifacts:records/pokemon/safari_ball"
+        },
+        {
+          "type": "loot_table",
+          "value": "artifacts:records/pokemon/timer_ball"
+        },
+        {
+          "type": "loot_table",
+          "value": "artifacts:records/pokemon/ultra_ball"
+        }
+      ]
+    }
+  ]
+}

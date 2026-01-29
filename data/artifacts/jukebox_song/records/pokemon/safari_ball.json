@@ -1,0 +1,9 @@
+{
+    "comparator_output": 9,
+    "description": "Junichi Masuda - Route 101",
+    "length_in_seconds": 77.0,
+    "sound_event": {
+        "sound_id": "artifacts:music.pokemon.rse_route_one_zero_one",
+        "range": 64
+    }
+}

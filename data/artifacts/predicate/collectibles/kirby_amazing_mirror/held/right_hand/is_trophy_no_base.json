@@ -1,0 +1,31 @@
+{
+  "condition": "minecraft:all_of",
+  "terms": [
+    {
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+        "equipment": {
+            "mainhand": {
+                "items": "minecraft:poisonous_potato",
+                "predicates": {
+                    "minecraft:custom_data": {
+                        "artifacts": {
+                            "group": "kirby_amazing_mirror",
+                            "has_base": false
+                        }
+                    }
+                }
+            }
+        }
+    }
+    },
+    {
+      "condition": "minecraft:inverted",
+      "term": {
+        "condition": "minecraft:reference",
+        "name": "artifacts:collectibles/kirby_amazing_mirror/held/right_hand/is_trophy_base"
+      }
+    }
+  ]
+}

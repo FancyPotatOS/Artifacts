@@ -1,0 +1,42 @@
+{
+  "function": "minecraft:sequence",
+  "functions": [
+    {
+      "function": "minecraft:set_custom_data",
+      "tag": {
+        "artifacts": {
+          "group": "kirby_amazing_mirror",
+          "has_base": true
+        }
+      }
+    },
+    {
+      "function": "minecraft:set_custom_model_data",
+      "strings": {
+        "values": [
+          "artifacts:trophy_base"
+        ],
+        "mode": "replace_section",
+        "offset": 1,
+        "size": 1
+      }
+    },
+    {
+      "function": "minecraft:set_components",
+      "components": {
+        "minecraft:lore": [
+          {
+            "text": "Trophy",
+            "italic": false,
+            "color": "gray"
+          },
+          {
+            "text": "Kirby & The Amazing Mirror",
+            "italic": false,
+            "color": "#1F8E8E"
+          }
+        ]
+      }
+    }
+  ]
+}

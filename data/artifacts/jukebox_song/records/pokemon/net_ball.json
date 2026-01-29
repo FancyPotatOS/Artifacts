@@ -1,0 +1,9 @@
+{
+    "comparator_output": 9,
+    "description": "Morikazu Aoki - Route 1",
+    "length_in_seconds": 63.0,
+    "sound_event": {
+        "sound_id": "artifacts:music.pokemon.rgby_route_one",
+        "range": 64
+    }
+}
