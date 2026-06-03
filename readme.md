@@ -12,7 +12,7 @@ This datapack requires two Resource Packs: one for the collectibles, and another
 
 The reason the records Resource Pack is separate is because it's ~200mb zipped, making it unable to be stored on GitHub or downloaded automatically on servers. The link is publicly available, so you'll need to direct players who are interested to use the following link:
 
-https://drive.google.com/file/d/1uj9zO7t8toYLo6u3l-SFIaulfYTFHoZw/view?usp=sharing
+https://drive.google.com/file/d/11ThnSF4UsmRhmOSURkp3CaQuhb1GTndq/view?usp=sharing
 
 The set that is dropped is biome-dependant. (For example, Donkey Kong Country sets drop in any jungle biome) The items only drop when killed by a player that has it enabled
 
