@@ -24,8 +24,3 @@ This enchants your chestplate with a fake 'curse' that allows mobs you kill to d
 `/trigger toggle_perfect_pitch`
 Same as collectibles, but the enchantment is a helmet enchantment
 
-
-## Todo
-
-- Add unique tools, weapons, and armor with special uses
-
