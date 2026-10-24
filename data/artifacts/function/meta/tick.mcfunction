@@ -13,5 +13,5 @@ function artifacts:collectibles/super_mario_world/mushroom/tick
 
 function artifacts:enchantment/tick
 
-function artifacts:collectibles/kirby_amazing_mirror/tick
+# function artifacts:collectibles/kirby_amazing_mirror/tick
 

@@ -6,9 +6,9 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:diamond_sword",
-          "functions": [
+          "modifier": [
             {
-              "function": "minecraft:set_components",
+              "type": "minecraft:set_components",
               "components": {
                 "minecraft:damage_resistant": {
                   "types": "#artifacts:all"
@@ -55,13 +55,15 @@
                     "amount": 1000000,
                     "operation": "add_value",
                     "slot": "mainhand"
+                  },
+                  {
+                    "type": "minecraft:attack_damage",
+                    "id": "artifacts:weapons/legacy_sword",
+                    "amount": 6,
+                    "operation": "add_value",
+                    "slot": "mainhand"
                   }
-                ],
-                "minecraft:tooltip_display": {
-                    "hidden_components": [
-                        "minecraft:attribute_modifiers"
-                    ]
-                }
+                ]
               }
             }
           ]

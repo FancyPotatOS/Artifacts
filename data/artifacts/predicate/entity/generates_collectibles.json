@@ -1,9 +1,4 @@
 {
-    "condition": "any_of",
-    "terms": [
-        {
-            "condition": "reference",
-            "name": "artifacts:entity/curse_of_greed/wearing"
-        }
-    ]
+    "type": "any_of",
+    "terms": "artifacts:entity/curse_of_greed/wearing"
 }

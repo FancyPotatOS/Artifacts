@@ -1,8 +1,8 @@
 {
-  "function": "minecraft:sequence",
+  "type": "minecraft:sequence",
   "functions": [
     {
-      "function": "minecraft:set_custom_data",
+      "type": "minecraft:set_custom_data",
       "tag": {
         "artifacts": {
           "group": "kirby_amazing_mirror",
@@ -11,7 +11,7 @@
       }
     },
     {
-      "function": "minecraft:set_custom_model_data",
+      "type": "minecraft:set_custom_model_data",
       "strings": {
         "values": [
           "artifacts:trophy_base"
@@ -22,7 +22,7 @@
       }
     },
     {
-      "function": "minecraft:set_components",
+      "type": "minecraft:set_components",
       "components": {
         "minecraft:lore": [
           {

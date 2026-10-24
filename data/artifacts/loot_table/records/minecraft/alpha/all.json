@@ -1,7 +1,7 @@
 {
     "pools": [
         {
-            "rolls": 1.0,
+            "rolls": 1,
             "entries": [
                 {
                     "type": "minecraft:loot_table",
@@ -10,7 +10,7 @@
             ]
         },
         {
-            "rolls": 1.0,
+            "rolls": 1,
             "entries": [
                 {
                     "type": "minecraft:loot_table",
@@ -19,7 +19,7 @@
             ]
         },
         {
-            "rolls": 1.0,
+            "rolls": 1,
             "entries": [
                 {
                     "type": "minecraft:loot_table",
@@ -28,7 +28,7 @@
             ]
         },
         {
-            "rolls": 1.0,
+            "rolls": 1,
             "entries": [
                 {
                     "type": "minecraft:loot_table",
@@ -37,7 +37,7 @@
             ]
         },
         {
-            "rolls": 1.0,
+            "rolls": 1,
             "entries": [
                 {
                     "type": "minecraft:loot_table",
@@ -46,7 +46,7 @@
             ]
         },
         {
-            "rolls": 1.0,
+            "rolls": 1,
             "entries": [
                 {
                     "type": "minecraft:loot_table",
@@ -55,7 +55,7 @@
             ]
         },
         {
-            "rolls": 1.0,
+            "rolls": 1,
             "entries": [
                 {
                     "type": "minecraft:loot_table",
@@ -64,7 +64,7 @@
             ]
         },
         {
-            "rolls": 1.0,
+            "rolls": 1,
             "entries": [
                 {
                     "type": "minecraft:loot_table",
@@ -73,7 +73,7 @@
             ]
         },
         {
-            "rolls": 1.0,
+            "rolls": 1,
             "entries": [
                 {
                     "type": "minecraft:loot_table",
@@ -82,7 +82,7 @@
             ]
         },
         {
-            "rolls": 1.0,
+            "rolls": 1,
             "entries": [
                 {
                     "type": "minecraft:loot_table",
@@ -91,7 +91,7 @@
             ]
         },
         {
-            "rolls": 1.0,
+            "rolls": 1,
             "entries": [
                 {
                     "type": "minecraft:loot_table",
@@ -100,7 +100,7 @@
             ]
         },
         {
-            "rolls": 1.0,
+            "rolls": 1,
             "entries": [
                 {
                     "type": "minecraft:loot_table",
